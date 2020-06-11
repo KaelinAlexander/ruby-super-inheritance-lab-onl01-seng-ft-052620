@@ -3,7 +3,16 @@ require_relative "./student.rb"
 class ChattyStudent < Student
 
   def raise_hand
-    puts "Pick me!"
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
   end
   
   def hello
